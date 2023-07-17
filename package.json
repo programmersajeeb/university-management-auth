@@ -15,7 +15,7 @@
   "author": "arifuzzaman-arif",
   "license": "ISC",
   "lint-stage": {
-    "src/**/*.ts": "yarn lint-prettier"
+    "src/**/*.ts": "yarn lint-staged"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
